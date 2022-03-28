@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/AlunoOnline/app/src/main/res/layout/activity_cadastro_aluno.xml" value="0.264" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/AlunoOnline/app/src/main/res/layout/activity_main.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/AlunoOnline/app/src/main/res/menu/menu_cadastro.xml" value="0.264" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/drawable-anydpi/ic_limpar.xml" value="0.235" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/drawable-anydpi/ic_salvar.xml" value="0.1265" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/drawable/ic_cad_aluno_background.xml" value="0.235" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/drawable/ic_navigation_chevron_right.xml" value="0.208" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/drawable/ic_teste_foreground.xml" value="0.208" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_cadastro_aluno.xml" value="0.24205128205128204" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_cadastro_disciplina.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_cadastro_professor.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_cadastro_turma.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_lancamento_frequencia.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_lancamento_notas.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_lista_aluno.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_lista_disciplina.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_lista_professor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_lista_turma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/card_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/card_view_aluno.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/card_view_disciplina.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/card_view_professor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/layout/card_view_turma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/menu/menu_cadastrar.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/menu/menu_cadastro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/menu/menu_cadastros.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bruno/Documents/Workspaces/POS - Web e Mobile/Android/AlunoOnline/app/src/main/res/menu/menu_lista.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/joaoa/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.1" />
+        <entry key="..\:/Users/joaoa/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_2.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_cadastro_aluno.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_cadastro_professor.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_cadastro_turma.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_lancamento_disciplina.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_lancamento_frequencias.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_lancamento_notas.xml" value="0.264" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_lista_aluno.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/activity_main.xml" value="0.10960144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/card_view_disciplina.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/card_view_frequencia.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/layout/card_view_nota.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/menu/menu_cadastros.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/joaoa/Documents/bruno/AlunoOnline-master/AlunoOnline-master/app/src/main/res/menu/menu_lista.xml" value="0.20260416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

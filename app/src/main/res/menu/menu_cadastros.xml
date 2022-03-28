@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/cadastro"
+        android:title="Cadastros" >
+        <menu>
+            <item android:id="@+id/mn_aluno"
+                android:title="Aluno" />
+
+            <item android:id="@+id/mn_professor"
+                android:title="Professor" />
+
+            <item android:id="@+id/mn_disciplina"
+                android:title="Disciplina"/>
+
+            <item android:id="@+id/mn_turma"
+                android:title="Turma"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/lancamento"
+        android:title="Lançamentos" >
+        <menu>
+            <item android:id="@+id/mn_nota"
+                android:title="Notas" />
+
+            <item android:id="@+id/mn_frequencia"
+                android:title="Frequencias" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/listagens"
+        android:title="Listar" >
+        <menu>
+            <item android:id="@+id/mn_lAlunos"
+                android:title="Alunos" />
+
+            <item android:id="@+id/mn_lProfessores"
+                android:title="Professores" />
+
+            <item android:id="@+id/mn_lDisciplinas"
+                android:title="Disciplinas" />
+
+            <item android:id="@+id/mn_lTurmas"
+                android:title="Turmas" />
+        </menu>
+    </item>
+
+</menu>

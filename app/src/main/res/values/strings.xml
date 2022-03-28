@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AlunoOnline</string>
+    <string name="ra">Ra</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">Cpf</string>
+    <string name="dtNasc">Dt. Nascimento</string>
+    <string name="dtMatricula">Dt. Matrícula</string>
+    <string name="addAluno">Add Aluno</string>
+    <string name="codigo">Código</string>
+    <string name="professor">Professor</string>
+    <string name="cargaHorario">Carga Horária</string>
+    <string name="curso">Curso</string>
+    <string name="periodo">Periodo</string>
+    <string name="selecionePeriodo">Selecione o Periodo</string>
+    <string name="turno">Turno</string>
+    <string name="selecioneTurno">Selecione o Turno</string>
+    <string name="selecioneCurso">Selecione o Curso</string>
+    <string name="selecioneRegime">Selecione o Regime</string>
+    <string name="nota1">1ª Nota</string>
+    <string name="nota2">2ª Nota</string>
+    <string name="regime">Regime</string>
+    <string name="selecioneAluno">Selecione o Aluno</string>
+    <string name="frequencia">Frequencia</string>
+    <string name="dtCursoAluno">Curso</string>
+    <string name="aluno">Aluno</string>
+    <string name="buscaAluno">Buscar Aluno</string>
+    <string name="totalDiasLetivos">Dias Letivos</string>
+    <string name="selecioneProfessor">Selecione o Professor</string>
+
+</resources>
